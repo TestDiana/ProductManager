@@ -31,9 +31,7 @@ public class Product {
         this.name = name;
     }
 
-    public int getPrice() {
-        return price;
-    }
+
 
     public void setPrice(int price) {
         this.price = price;
